@@ -46,7 +46,7 @@ Historical & Environmental Data
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/main%.png)
+![Dashboard Overview](screenshots/main%20.png)
 
 *Home page of the project*
 
