@@ -94,9 +94,9 @@ Historical & Environmental Data
 
 ## Recognition
 
-🥈 2nd Place — TechSprint Manipur 1.0 (48-Hour AI Hackathon)
+🥈 2nd Place — TechSprint Manipur 1.0 (48-Hour AI Hackathon)![certificate](certificate/techsprint.jpeg)
 
-🥈 Runner-Up (2nd Place) — ReGen Hackathon 2.0
+🥈 Runner-Up (2nd Place) — ReGen Hackathon 2.0![certificate](certificate/regen.jpeg)
 
 🎤 Exhibited at AI Impact Summit 2026 representing the Department of Information Technology, Government of Manipur
 
