@@ -8,6 +8,12 @@ Built using Node.js, Express.js, MongoDB, Python, FastAPI, QGIS, and Google Eart
 
 ---
 
+## Recognition
+-Exhibited at AI Summit India 2026
+-Runner-Up, TechSprint AI Hackathon 1.0 2026
+-Runner-Up, ReGen Hackathon 2.0 2026 
+
+
 ## Key Features
 
 * Grid-based landslide risk assessment (500m × 500m resolution)
